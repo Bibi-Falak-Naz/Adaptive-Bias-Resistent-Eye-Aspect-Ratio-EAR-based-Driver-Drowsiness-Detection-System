@@ -18,3 +18,8 @@ Unlike standard drowsiness detectors, this system features an **Adaptive Thresho
 Make sure you have Python installed, then run the following command in your terminal to install the required libraries:
 ```bash
 pip install opencv-python mediapipe numpy
+
+### 2. Run the Application
+Execute the main Python script to initialize the camera feed and start tracking:
+```bash
+python Drowsiness_Detection.py
